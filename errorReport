@@ -1,0 +1,6 @@
+
+first way
+    ini_set('display_errors', 1);
+    error_reporting(E_ALL);
+second
+    in php.ini file set display_errors=On
