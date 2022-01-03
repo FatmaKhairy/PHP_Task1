@@ -11,8 +11,8 @@
            echo chunk_split($str,1,"  ");
            print_r(str_split("SecendFun"));
            echo"\n". md5('thirdFun');
-           echo"<h3>************************Q3*************************\n commented</h3>";
-           // print_r($_SERVER)
+           echo"<h3>************************Q3*************************\n</h3>";
+           print_r($_SERVER);
            echo"<h3>************************Q4*************************</h3>";
            $numbers=[12,45,10,25];
            foreach($numbers as $number){
