@@ -47,7 +47,16 @@
           foreach($names as $key=>$value){
            echo " $key => $value \n";
           }
+          echo "********************************** \n";
+          $xs=getdate();
+          foreach($xs as $key=>$value){
+           echo " $key = $value \n";
+          }
            echo "</pre>";
+
+
+         
+
         ?>
     </body>
 </html>
