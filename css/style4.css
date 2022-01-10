@@ -1,0 +1,41 @@
+.container{
+width: 80%;
+margin-top: 50px;
+margin-left: auto;
+margin-right: auto;
+}
+h2{
+    text-align:center;
+}
+.thead-dark{
+    background-color: black;
+    color: #fff;
+}
+.btn.btn-info{
+    color: #fff;
+    border-radius: 8px;
+    margin-left: 70%;
+}
+.table,form{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.form-group{
+    margin: 10px;
+}
+.fa.fa-eye{color: #0dcaf0;}
+.fa.fa-trash{color: red;}
+.card{
+    width:70% ;
+    margin: auto;
+    padding: 10px;
+}
+.card h6,.card-header,a{
+    font-style: oblique;
+}
+.card p{
+    margin-left: 10px;
+    font-style: oblique;
+}
+
